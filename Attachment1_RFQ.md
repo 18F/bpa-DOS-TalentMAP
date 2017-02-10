@@ -117,10 +117,10 @@ g.  *Price Quotation.* The Government hereby seeks further price reductions and 
 Note that Price Quotation will not be reviewed prior to Oral Interview.
 
 **7. Oral Interview.** Each offeror will be provided the questions, via e-mail, approximately 60 minutes prior to their Oral Presentation. The Government is much more interested in the informational content of the offeror’s answers rather than the particular style or technique used in delivering the answers. The Government may take notes during the presentation at its discretion and exclusive right and property, and may use such notes in the evaluation. No copies will be provided to the offeror.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Schedule and Agenda for Oral Presentations:
--------------------------------------------
+
+**Schedule and Agenda for Oral Presentations:**
+
 
 <table>
 <thead>
@@ -154,8 +154,6 @@ Schedule and Agenda for Oral Presentations:
 </tbody>
 </table>
 
-### 
-
 a. *Rules.* The oral presentation consists of an initial question and answer session on technical factors, and a follow-up question and answer session (if necessary). The Government is not obligated to determine a competitive range, conduct discussions, and solicit or allow revised quotes. The entire oral presentation will be conducted remotely via video and audio. Offerors shall not bring or present slides, graphs, charts or any other written presentation materials nor will the Government accept or receive offeror handouts.
 
 b. *Part One.* Part One of the offeror’s oral presentation will consist of the offeror answering the Government’s core questions related to the technical factors identified in the RFQ. While the technical factors are identified in the RFQ, the core questions are not. All offerors will be asked the same core questions related to the technical factors. The questions are related to the offeror’s technical understanding and approach of the requirements identified in the PWS and quality control measures for overseeing performance. This part of the oral presentation of answers will not exceed 25 minutes, and may go shorter. 
@@ -171,7 +169,6 @@ f. *Participants.* Offerors may include as many participants as it feels is nece
 After the presentations, offerors shall provide an email to confirm attendance with names of participants to the meeting organizers.
 
 **8. Basis of Award and Evaluation Criteria**
----------------------------------------------
 
 This procurement is being conducted in accordance with FAR Subpart 8.4, Federal Supply Schedules. The offerors agree to and are bound by all instructions, procedures and rules of this RFQ. The final award for this requirement will be based on best-value principles, utilizing the trade-off process. Accordingly, award will be made to the responsible and technically acceptable offeror whose quotation provides the greatest overall value to the Government, price and other factors considered.
 
