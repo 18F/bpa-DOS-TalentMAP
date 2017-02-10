@@ -18,9 +18,9 @@ Department of State TalentMAP
 
 **January 2017**
 
-**NCR AAS Project Number ID11XXXXXX**
+**NCR AAS Project Number ID11170017**
 
-OBJECTIVES
+1. OBJECTIVES
 ----------
 
 The DOS seeks the creation of a new system, TalentMAP, that will equitably and transparently manage and match Foreign Service employees to appropriate work assignments. The new system will maintain the existing business functionality and meet evolving requirements while leveraging best practices in software development. The DOS will be able to better carry out its diplomatic mission by: improving the matching process, reducing the amount of time it takes for Foreign Service employees to find good jobs, and improving the workflow for administrative staff to manage Foreign Service employees.
@@ -29,19 +29,19 @@ The target date for a beta version of a new TalentMAP application is the end of 
 
 The initial phase of work will center on the management and display of information about Diplomatic Posts (for example, an Embassy in Paris) and Service Positions (for example, a Cultural Affairs Officer position at the Embassy.
 
-BACKGROUND
+2. BACKGROUND
 ----------
 
 TalentMAP is anticipated to replace the Foreign Service Bidding (FSBid) application and serve as a unified source of information (currently stored outside of FSBID) regarding available Foreign Service positions and post data for Foreign Service employees. FSBid is the current system of record for internal bidding and assignment processes for Foreign Service employees. TalentMAP’s primary goal is to bring about a more secure, reliable and dedicated system to support the Bureau of Human Resources’ Career Development and Assignments Office (HR/CDA) business processes. HR/CDA supports the mission of the DOS by transparently and equitably assigning employees with the right skills to the right positions at the right time. The three Career Development Divisions of HR/CDA (EL, ML, and SL) are staffed by Career Development Officers (CDOs) who represent their clients in the assignments process. They provide counseling and advice on issues related to assignments from bidding to arrival at post, tenure, promotions, developmental training, tour of duty (including extensions and curtailments), skill code change, and leave without pay. HR/CDA also includes the Assignments Division (HR/CDA/AD), which supports the assignments process, the Professional Development Unit (HR/CDA/PDU), which manages details and long term training assignments, and the Office of Continuity Counseling (HR/CDA/CC), which supports mentoring and counseling programs, among other functions.
 
-SCOPE
+3. SCOPE
 -----
 
 The scope of this Call Order is for the Contractor to deliver the TalentMAP system.
 
 The first 4- months of this Call Order will focus on the management and display of Diplomatic Posts and Foreign Service Position information. Per the QASP, based on what is accomplished the first 4-months, the following 8 months of the task order will consist of bi-monthly product workshops between GSA TTS, DOS, and the vendor to further refine the roadmap functionality of the TalentMAP system.
 
-TASKS
+4. TASKS
 -----
 
 The Contractor will provide the following services:
@@ -127,7 +127,7 @@ The first 4 months of the performance period, the Contractor shall focus on deli
 
 In accordance with agile methodologies, the vendor, GSA TTS team, and DOS will work together on a minimum bi-monthly basis throughout the period of performance to determine and refine the prioritization of the backlog for the remainder of the period of performance.
 
-OPERATIONAL REQUIREMENTS
+5. OPERATIONAL REQUIREMENTS
 ------------------------
 
 ### Personnel
@@ -268,7 +268,8 @@ Contractor’s Project Manager shall be responsible for daily operations as well
 
 -   In order to manage the continuous delivery model we ask that 1-2 technical staff with an active Secret security clearance be regularly on-site at the DOS, in order to continually make sure that the system will work in the production environment.
 
-**SYSTEM SECURITY**
+6. SYSTEM SECURITY
+------------------
 
 The Contractor shall be subject to all applicable federal and agency-specific IT security directives, standards, policies, and reporting requirements.
 
@@ -288,7 +289,8 @@ Contractor shall work with GSA TTS and DOS project teams to ensure that the syst
 
 -   Contractor shall ensure that the system includes user authentication and authorization functionality that, at a minimum, includes two-factor authentication using open source encryption protocols.
 
-**SECURITY CLEARANCES**
+7. SECURITY CLEARANCES
+----------------------
 
 Key personnel performing the efforts must have at a minimum a Secret Level security clearance at time of award of this Task Order. To perform the work specified herein, Contractor key personnel are expected to have routine physical access to the Government facility. To gain routine, physical access to a Government facility, the Contractor and its employees shall comply with Homeland Security Presidential Directive (HSPD)-12, Policy for a Common Identification Standard for Federal Employees and Contractors. Work performed under this task order will require a Secret Level Background
 
@@ -300,11 +302,13 @@ Key personnel performing the efforts must have at a minimum a Secret Level secur
 
 All costs associated with obtaining/possessing such security clearances should be factored into the price offered under the contractors IT Schedule 70 contract.
 
-### Travel
+8. Travel
+-------------
 
 The Government does not anticipate any travel being completed for this Call Order.
 
-### Deliverables
+9. Deliverables
+---------------
 
 ### Status Reports
 
@@ -318,7 +322,7 @@ In lieu of a typical status report, Contractor's progress must be documented and
 
 -   Summary slide decks or other collateral created for design, development, system architecture, and stakeholder briefings
 
-### Deliverables
+### Deliverables Table
 
 | **Deliverable**              | **Due date**                                                                                                                                                                | **Description**                                                                                                    |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -352,7 +356,7 @@ The Contractor shall consult with the GSA TTS Product Lead to determine what is 
 
 The Government will use [*the attached draft Quality Assurance Surveillance Plan*](https://docs.google.com/document/d/1STI4lz5x3WIWyGXZy54axMU8lr4fka3QG6LZwX21ZII/edit) (QASP) to monitor the Contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the Government with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the Government as necessary. Any updates to the QASP will be provided to the Contractor. If needed, the draft QASP will be updated within 10 business days of contract kick off meeting by GSA TTS Product Lead and/or the COR/ACOR.
 
-Transition
+10. Transition
 ----------
 
 ### Transition Plan
@@ -373,7 +377,7 @@ During the transition to the Government, or a new Contractor, the Contractor sha
 
 Final report shall include a list of sprint tasks completed, documentation, and link to code repository developed for GSA TTS. Should the Contractor be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR/ACOR and the GSA TTS Product Lead within two weeks of the COR/ACOR and the GSA TTS Product Lead’s request.
 
-TERMS AND CONDITIONS
+11. TERMS AND CONDITIONS
 --------------------
 
 ### Type of Contract
@@ -394,15 +398,16 @@ Business core hours shall be 0900 to 1800 EST, Monday – Friday on Government s
 
 The Contractor is not be required to report on the following federal holidays:
 
-> New Year’s Day Birthday of Martin Luther King, Jr.
->
-> Washington’s Birthday Memorial Day
->
-> Independence Day Labor Day
->
-> Columbus Day Veterans Day
->
-> Thanksgiving Day Christmas Day
+> New Year’s Day 
+> Birthday of Martin Luther King, Jr.
+> Washington’s Birthday 
+> Memorial Day
+> Independence Day 
+> Labor Day
+> Columbus Day 
+> Veterans Day
+> Thanksgiving Day 
+> Christmas Day
 
 ### Administration Points of Contact (POC)
 
@@ -412,7 +417,7 @@ The following POC are applicable to this order:
 
 Contracting Officer (CO): Fred Thomas, [*frederick.thomas@gsa.gov*](mailto:frederick.thomas@gsa.gov)
 
-C[o](mailto:frederick.thomas@gsa.gov)n[t](mailto:frederick.thomas@gsa.gov)r[a](mailto:frederick.thomas@gsa.gov)c[t](mailto:frederick.thomas@gsa.gov) [S](mailto:frederick.thomas@gsa.gov)p[e](mailto:frederick.thomas@gsa.gov)c[i](mailto:frederick.thomas@gsa.gov)a[l](mailto:frederick.thomas@gsa.gov)i[s](mailto:frederick.thomas@gsa.gov)t ([C](mailto:frederick.thomas@gsa.gov)S[)](mailto:frederick.thomas@gsa.gov): J[u](mailto:frederick.thomas@gsa.gov)l[i](mailto:frederick.thomas@gsa.gov)o P[e](mailto:frederick.thomas@gsa.gov)r[d](mailto:frederick.thomas@gsa.gov)o[m](mailto:frederick.thomas@gsa.gov)o[,](mailto:frederick.thomas@gsa.gov) [*julio.perdomo@gsa.gov*](mailto:julio.perdomo@gsa.gov)
+Contract Specialist (CS): Julio Perdomo, [*julio.perdomo@gsa.gov*](mailto:julio.perdomo@gsa.gov)
 
 **GSA TTS**
 
@@ -491,7 +496,7 @@ The Contractor should review the following websites for additional 508 informati
 
 All Contractor key personnel, employees, agents, Subcontractors, and Subcontractor personnel who will have access to documents or data during the performance of their duties under the contract shall execute the attached Non-Disclosure Agreement and return it to the CO within 5 calendar days of award and before being given access to such information or documents.
 
-INVOICING & PAYMENT
+12. INVOICING & PAYMENT
 -------------------
 
 The period of performance for each invoice shall be for one calendar month. The Contractor shall submit only one invoice per month per order/contract.
@@ -561,21 +566,3 @@ ROLES & RESPONSIBILITIES
 1.  QASP
 
 2.  Non-Disclosure Agreement
-
-### 
-
-### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
