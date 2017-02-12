@@ -399,14 +399,23 @@ Business core hours shall be 0900 to 1800 EST, Monday – Friday on Government s
 The Contractor is not be required to report on the following federal holidays:
 
 > New Year’s Day 
+>
 > Birthday of Martin Luther King, Jr.
+>
 > Washington’s Birthday 
+>
 > Memorial Day
+>
 > Independence Day 
+>
 > Labor Day
+>
 > Columbus Day 
+>
 > Veterans Day
+>
 > Thanksgiving Day 
+>
 > Christmas Day
 
 ### Administration Points of Contact (POC)
