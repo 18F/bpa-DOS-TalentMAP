@@ -16,8 +16,6 @@ Department of State TalentMAP
 
 **Federal Acquisition Service (FAS)/Assisted Acquisition Services (AAS)**
 
-**February 10, 2017**
-
 **NCR AAS Project Number ID11170017**
 
 1. INTRODUCTION
