@@ -8,4 +8,4 @@ The documents in this repository were originally posted to eBuy under RFQ#116987
 
 Please submit any questions by February 15th, 2017 at 12:00pm. Please note at this time that TTS and the Contracting Officer will only be responding to questions submitted by Agile BPA vendors.  Comments from other parties will still be considered but we cannot commit to responding to them.
 
-Offers are due by February 24th, at 6pm.
+Offers are due by March 6th, at 6pm.
